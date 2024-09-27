@@ -55,17 +55,12 @@
         install-deps = "yarn install"; # Change to "npm install" if using npm.
 
         # Optional: Open key project files automatically when the workspace is created.
-        default.openFiles = [
-          "README.md"
-          "src/index.js"
-        ];
+        default.openFiles = [];
       };
 
       # Actions that run each time the workspace is (re)started.
       onStart = {
         # Optional: Start a background task to watch and re-build backend code.
-        # Change this to whatever task you need for your development setup.
-        watch-backend = "yarn run watch-backend"; # Or "npm run watch-backend"
       };
     };
   };
