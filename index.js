@@ -67,7 +67,9 @@ const client = new ForgeClient({
 // Setup ForgeDB variables
 const setupVariables = () => {
     ForgeDB.variables({
-        cash: "0"
+        caps: "0",
+        bank: "0",
+        current_job: "Fast Food Worker"
     });
     console.log(chalk.magentaBright("==================================================================="));
     console.log(chalk.yellow("Defined ForgeDB variables Successfully."));
@@ -96,7 +98,7 @@ const loadCommands = async () => {
 
 // Clear the terminal and log in the bot
 const startBot = async () => {
-    console.clear(); // Clear terminal screen
+    console.clear(); // Clear the terminal
     
 
     // Display ASCII art

@@ -4,26 +4,28 @@ const chalk = require('chalk');
 module.exports = {
     type: "ready",
     code: `
-    $$djsEval[
+    $djsEval[
         setTimeout(() => {
-            const commands = ctx.client.commands; // Access the commands from the client
-
-            console.log(chalk.blue('Commands Loaded')); // Change color of "Commands Loaded"
-
-            // Check if commands is a valid Collection
-            if (commands && typeof commands === 'object' && commands.size !== undefined) {
-                // Iterate over each command group
+            const commands = ctx.client.commands.commands;
+        
+            console.log('Commands Loaded:');
+        
+            // Check if commands is a Collection or an object
+            if (commands && typeof commands === 'object' && commands.size > 0) {
+                // Iterate through the commands
                 commands.forEach((cmdArray, commandName) => {
-                    cmdArray.forEach(cmd => {
-                        // Safely handle undefined or unexpected properties
-                        const sourceFile = cmd.file || 'Unknown'; // Fallback to 'Unknown' if cmd.file is not defined
-                        console.log(chalk.green(\`Loaded [\${commandName}] From [\${sourceFile}]\`)); // Log loaded command info in green
-                    });
+                    if (Array.isArray(cmdArray)) {
+                        cmdArray.forEach(cmd => {
+                            console.log(\`Loaded [\${commandName}\\] From [\${cmd.file || 'Unknown'}\\]\`);
+                        });
+                    } else {
+                        console.log(\`[\${commandName}\\] is not an array\`);
+                    }
                 });
             } else {
-                console.log(chalk.red('No commands found or commands is not a valid Collection')); // Log error message in red
+                console.log('No commands found or commands is not a valid Collection.');
             }
-        }, 5000); // Delay for 5 seconds to ensure commands are loaded
-    ]
+        }, 5000); // Delay for 5 seconds to ensure commands are loaded       
+    ]        
     `
 };

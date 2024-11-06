@@ -56,8 +56,7 @@ module.exports = [{
         allowedInteractionTypes: ["modal"],
         code: `
             $onlyIf[$customID==GetVarModal;]
-            $interactionReply[Fetched Variable: $input[VarName] ID: $input[VarID] Result: $getVar[$input[VarName];$input[VarID]]]
-            $ephemeral
+            $interactionReply[$ephemeral Fetched Variable: $input[VarName] ID: $input[VarID] Result: $getVar[$input[VarName];$input[VarID]]
             ]
 
         `
