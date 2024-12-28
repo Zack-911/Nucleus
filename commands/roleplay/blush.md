@@ -1,5 +1,5 @@
 ---
-description: show that you blushing using a gif
+description: Feeling shy suddenly? Well express it by a GIF!
 layout:
   title:
     visible: true
