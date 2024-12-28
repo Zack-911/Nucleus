@@ -16,7 +16,7 @@ For example, a Number field will interpret the input as a number and throw an er
 * **Number**: only numeric values are allowed. Numbers above 2^63 (and below -2^63) will lose precision, resulting in unexpected outcomes. For example 10, 2.5, and scientific notation too, 1e2 (100)
 * **Boolean**: Only **true** and **false** are allowed.
 * **Channel**: Only a valid channel can be given here like **#\<channel-name>** or **\<channel-ID>**
-* **User**: Only a valid user can be given here like **@\<user>** or **\<user-ID>**
+* **User**: Only a valid user can be given. Can be username,ID or mention
 * **Role**: Only a valid role can be given here like **@\<role>** or **\<role-ID>**
 * **Time:** A numeric value (milliseconds), or a string that can be parsed into time. For example: **10m**, **3h30m**, **1d2h10s**...
 
