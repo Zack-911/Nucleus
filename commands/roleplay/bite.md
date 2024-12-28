@@ -1,5 +1,5 @@
 ---
-description: bite someone using a gif
+description: Sink your teeth into someone with a ferocious GIF.
 ---
 
 # Bite
