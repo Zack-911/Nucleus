@@ -32,5 +32,5 @@ k!blush
 ***
 
 ## Source
-> Are you interested in how this command works behind the scenes? Click [here](https://github.com/Kiko-Labs/Kiko-San/blob/stable/src/Prefix%20Commands/Roleplay/angry.js) to view it.
+> Are you interested in how this command works behind the scenes? Click [here](https://github.com/Kiko-Labs/Kiko-San/blob/stable/src/Prefix%20Commands/Roleplay/blush.js) to view it.
 > Oh and it might be a pure spaghetti, good luck, brave soul!
