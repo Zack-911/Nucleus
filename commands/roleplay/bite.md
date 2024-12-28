@@ -9,7 +9,7 @@ description: Sink your teeth into someone with a ferocious GIF.
 ## Usage:
 
 ```
-k1.bite <user>
+k!bite <user>
 ```
 
 ***
