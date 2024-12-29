@@ -1,5 +1,5 @@
 ---
-description: Feeling shy suddenly? Well express it by a GIF!
+description: Express your sadness with a GIF.
 layout:
   title:
     visible: true
@@ -13,14 +13,14 @@ layout:
     visible: false
 ---
 
-# Blush
+# Cry
 
 ***
 
 ## Usage:
 
 ```
-k!blush
+k!cry
 ```
 
 ***
@@ -32,5 +32,5 @@ k!blush
 ***
 
 ## Source
-> Are you interested in how this command works behind the scenes? Click [here](https://github.com/Kiko-Labs/Kiko-San/blob/stable/src/Prefix%20Commands/Roleplay/blush.js) to view it.
+> Are you interested in how this command works behind the scenes? Click [here](https://github.com/Kiko-Labs/Kiko-San/blob/stable/src/Prefix%20Commands/Roleplay/cry.js) to view it.
 > Oh and it might be a pure spaghetti, good luck, brave soul!
