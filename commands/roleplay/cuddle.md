@@ -1,4 +1,5 @@
 ---
+description: Need a warm and fuzzy moment? Use this command to send a cozy cuddle GIF and spread the love!
 layout:
   title:
     visible: true
@@ -31,6 +32,8 @@ k!cuddle [user]
 ***
 
 ## Output:
+
+<div align="left"><figure><img src="../../.gitbook/assets/Cuddle.png" alt=""><figcaption></figcaption></figure></div>
 
 ***
 

@@ -27,7 +27,7 @@ k!cry
 
 ## Output:
 
-<div align="left"><figure><img src="../../.gitbook/assets/Screenshot 2024-12-29 134119.png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/Cry.png" alt=""><figcaption></figcaption></figure></div>
 
 
 
