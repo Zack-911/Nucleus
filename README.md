@@ -13,7 +13,7 @@ layout:
 ---
 
 <h2 align="center">Kiko San Documentation</h2>
-<img src="https://github.com/Kiko-Labs/Kiko-San/blob/stable/src/assets/R.png" align="right" style="border-radius=30px;" height="128" width="128">
+<img src="../../.gitbook/assets/KikoSan.png" align="right" style="border-radius=30px;" height="128" width="128">
 
 Welcome to the documentation of **Kiko San**! Want to automate tasks or just explore a bot with a wide range of features? Kiko San will be there to enhance your time.
 <h3 align="left">Understanding how the arguments work</h3>
