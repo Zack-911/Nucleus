@@ -32,6 +32,8 @@ k!poke <user>
 
 ## Output:
 
+<div align="left"><figure><img src="../../.gitbook/assets/Poke.png" alt=""><figcaption></figcaption></figure></div>
+
 ***
 
 ## Source

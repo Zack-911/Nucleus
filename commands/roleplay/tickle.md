@@ -32,6 +32,8 @@ k!tickle <user>
 
 ## Output:
 
+<div align="left"><figure><img src="../../.gitbook/assets/Tickle.png" alt=""><figcaption></figcaption></figure></div>
+
 ***
 
 ## Source

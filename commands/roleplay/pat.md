@@ -32,6 +32,8 @@ k!pat <user>
 
 ## Output:
 
+<div align="left"><figure><img src="../../.gitbook/assets/Pat.png" alt=""><figcaption></figcaption></figure></div>
+
 ***
 
 ## Source

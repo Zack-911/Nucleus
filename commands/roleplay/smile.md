@@ -26,6 +26,8 @@ k!smile
 
 ## Output:
 
+<div align="left"><figure><img src="../../.gitbook/assets/Smile.png" alt=""><figcaption></figcaption></figure></div>
+
 ***
 
 ## Source

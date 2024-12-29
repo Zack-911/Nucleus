@@ -32,6 +32,7 @@ k!hug <user>
 
 ## Output:
 
+<div align="left"><figure><img src="../../.gitbook/assets/Hug.png" alt=""><figcaption></figcaption></figure></div>
 ***
 
 ## Source

@@ -32,6 +32,8 @@ k!kiss <user>
 
 ## Output:
 
+<div align="left"><figure><img src="../../.gitbook/assets/Kiss.png" alt=""><figcaption></figcaption></figure></div>
+
 ***
 
 ## Source
