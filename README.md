@@ -45,7 +45,7 @@ Kiko San offers a variety of functionalities, including:
 
 <div align="center">
   <figure>
-    <img src="../../.gitbook/assets/KikoSan.png" alt="Kiko San Features Overview" style="width: 70%;">
+    <img src="../../.gitbook/assets/KikoSan.png" alt="Kiko San Features Overview" style="width: 50%;">
     <figcaption>Explore the powerful features of Kiko San.</figcaption>
   </figure>
 </div>
@@ -82,11 +82,11 @@ For more in-depth guides and tutorials:
 
 <div align="center">
   <figure>
-    <img src="../../.gitbook/assets/KikoSanBanner.png" alt="Kiko San Community" style="width: 70%;">
+    <img src="../../.gitbook/assets/KikoSanBanner.gif" alt="Kiko San Community" style="width: 50%;">
     <figcaption>Join the growing Kiko San community!</figcaption>
   </figure>
 </div>
 
 ---
 
-Thank you for choosing Kiko San. Let’s make your server fun and efficient!  
+Thank you for choosing Kiko San. Let’s make your server fun and efficient!
