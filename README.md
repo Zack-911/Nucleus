@@ -43,13 +43,6 @@ Kiko San offers a variety of functionalities, including:
 - **Moderation Tools**: Maintain order with easy-to-use moderation commands.  
 - **Customization Options**: Tailor the bot to suit your needs.  
 
-<div align="center">
-  <figure>
-    <img src="../../.gitbook/assets/KikoSan.png" alt="Kiko San Features Overview" style="width: 50%;">
-    <figcaption>Explore the powerful features of Kiko San.</figcaption>
-  </figure>
-</div>
-
 ---
 
 ## **How to Use Kiko San**  
@@ -79,13 +72,6 @@ This will display a list of available commands categorized by functionality.
 For more in-depth guides and tutorials:  
  
 - Check out the source code on [GitHub](https://github.com/Kiko-Labs/Kiko-San).  
-
-<div align="center">
-  <figure>
-    <img src="../../.gitbook/assets/KikoSanBanner.gif" alt="Kiko San Community" style="width: 50%;">
-    <figcaption>Join the growing Kiko San community!</figcaption>
-  </figure>
-</div>
 
 ---
 
