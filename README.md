@@ -14,9 +14,10 @@ layout:
 
 # Kiko San Documentation
 
-<div align="left" data-full-width="true"><figure><img src=".gitbook/assets/KikoSan.png" alt="" width="188"><figcaption></figcaption></figure></div>
-
-Welcome to the documentation of **Kiko San**! Want to automate tasks or just explore a bot with a wide range of features? Kiko San will be there to enhance your time.&#x20;
+<div style="display: flex; align-items: center;">
+  <img src=".gitbook/assets/KikoSan.png" alt="" width="188" style="margin-right: 20px; border-radius: 30px;">
+  <p>Welcome to the documentation of <strong>Kiko San</strong>! Want to automate tasks or just explore a bot with a wide range of features? Kiko San will be there to enhance your time.</p>
+</div>
 
 ## Understanding How the Arguments Work
 
