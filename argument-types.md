@@ -47,12 +47,3 @@ For example, a **Number** field will interpret the input as a number and throw a
    - Examples: `10m`, `3h30m`, `1d2h10s`.  
 
 ---
-
-<div align="center">
-  <figure>
-    <img src="../../.gitbook/assets/ArgumentTypesExample.png" alt="Argument Types Example" style="width: 50%;">
-    <figcaption>An example of using argument types in Kiko San commands.</figcaption>
-  </figure>
-</div>
-
----
