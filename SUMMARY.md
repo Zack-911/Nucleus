@@ -21,4 +21,5 @@
   * [Dance](commands/roleplay/dance.md)
   * [Cuddle](commands/roleplay/cuddle.md)
 * [Developer](commands/developer/README.md)
-  * [Temp](commands/developer/temp.md)
+  * [Eval](commands/developer/eval.md)
+  * [Update](commands/developer/update.md)
