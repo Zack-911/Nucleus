@@ -20,3 +20,5 @@
   * [Hug](commands/roleplay/hug.md)
   * [Dance](commands/roleplay/dance.md)
   * [Cuddle](commands/roleplay/cuddle.md)
+* [Developer](commands/developer/README.md)
+  * [Temp](commands/developer/temp.md)
