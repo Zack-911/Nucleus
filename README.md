@@ -12,67 +12,54 @@ layout:
     visible: true
 ---
 
-# **Kiko San Documentation**  
+# Kiko San Documentation
 
-Welcome to the **Kiko San Documentation**! Whether you're automating tasks or exploring a bot with a wide range of features, Kiko San is here to enhance your experience.  
+Welcome to the documentation of **Kiko San**! Want to automate tasks or just explore a bot with a wide range of features? Kiko San will be there to enhance your time.
 
----
+## Understanding How the Arguments Work
 
-## **Understanding Syntax**  
+Before diving into this sea further, let’s get familiar with how arguments shown in the documentation work:
 
-Before diving into commands, let’s get familiar with how arguments work:  
+* `< >`: **Required arguments** – Think of these as the must-haves. If you forget to give the bot these, it'll throw a fit and refuse to work.
+* `[ ]`: **Optional arguments** – These are like extras on a menu. You can choose to include them for a more customized experience, but the bot will still work just fine without them.
+* `/`: **Choose One** – Pick your favorite from the available choices.
 
-- `< >`: **Required arguments** – These must always be provided.  
-- `[ ]`: **Optional arguments** – These are not mandatory.  
-- `/`: **Either option** – Choose one from the options provided.  
+Didn't understand what was all that blabbering? Well, with an example right here, you'll understand a bit about what's actually happening.
 
-For example:  
-
-```
-k!command <argument1> [argument2]
+```bash
+k!command <oh i am required! / or maybe you want to choose me?> [well you can skip me if you want]
 ```
 
----
+## Features Overview
 
-## **Features Overview**  
+> Kiko San isn't your average Discord application with a variety of useless features. It's cute and customizable!\
+> Now let's dive into what Kiko San actually offers:
+>
+> * **Roleplay commands**: Express yourself with fun GIFs and have fun interacting with the ones you care about.
+> * **Utility commands**: It's not just for fun! We have utilities to help you manage your server easily, in a cute way.
+> * **Moderation tools**: End the chaos in your server with ease.
+> * **Freedom**: Customize the application according to your needs.
 
-Kiko San offers a variety of functionalities, including:  
+## How to Use Kiko San?
 
-- **Roleplay Commands**: Add fun and interactive ways to engage with others.  
-- **Utility Commands**: Simplify server management and user tasks.  
-- **Moderation Tools**: Maintain order with easy-to-use moderation commands.  
-- **Customization Options**: Tailor the bot to suit your needs.  
+> Kiko San is extremely easy to use. Just type **`k!help`** in the chat and hit enter to view a list of available commands.
 
----
+## Getting Started
 
-## **How to Use Kiko San**  
+Easy, you bet!
 
-Using Kiko San is simple! Just type the prefix followed by a command. For example:  
+1. **Invite Kiko San to the party**\
+   Kiko San is easy to add. Just hop on to [this link](https://discord.com/api/oauth2/authorize?client_id=1288827343581872259\&scope=applications.commands+bot\&permissions=8) and authorize it.
+2. **Exploration**\
+   Just type `k!help` in the chat and hit enter to view all the commands.
 
-```
-k!help
-```
+## Additional Resources
 
-This will display a list of available commands categorized by functionality.  
+> We know the `!help` command can never satisfy all our needs, so we’ve created this site to give you more information.
 
----
+* Check out the source code of this project on our official [GitHub](https://github.com/Kiko-Labs/Kiko-San). Be aware, you might find some spaghetti code!
+* Continue exploring this documentation.
 
-## **Getting Started**  
+## Thanks!
 
-1. **Invite the Bot**  
-   Add Kiko San to your server using [this link](https://discord.com/api/oauth2/authorize?client_id=1288827343581872259&scope=applications.commands+bot&permissions=8).  
-
-2. **Explore Commands**  
-   Type `k!help` to view all available commands.  
-
----
-
-## **Additional Resources**  
-
-For more in-depth guides and tutorials:  
- 
-- Check out the source code on [GitHub](https://github.com/Kiko-Labs/Kiko-San).  
-
----
-
-Thank you for choosing Kiko San. Let’s make your server fun and efficient!
+> Hey, thanks for choosing Kiko San! We promise she won't disappoint you in helping you have fun with the ones you care about.
