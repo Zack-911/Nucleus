@@ -58,6 +58,7 @@ Easy, you bet!
 > We know the `!help` command can never satisfy all our needs, so we’ve created this site to give you more information.
 
 * Check out the source code of this project on our official [GitHub](https://github.com/Kiko-Labs/Kiko-San). Be aware, you might find some spaghetti code!
+* Check out the official [Website!](https://kikosan.zack911.xyz) I put alot of hard work into it and even animated it. I am also planning to move the docs there so stay tuned!
 * Continue exploring this documentation.
 
 ## Thanks!
