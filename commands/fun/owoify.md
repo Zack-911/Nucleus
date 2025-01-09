@@ -20,34 +20,9 @@ layout:
 ## Usage:
 
 ```
-k!owoify <text>>
+k!owoify <owo/uwu/uvu> <text>
 ```
 
-$loadEmbeds[{
-  "title": "Hello",
-  "description": "My id: {member.id}, and level {level}",
-  "color": 53380,
-  "footer": {
-    "text": "This is the footer text"
-  },
-  "fields": [
-    {
-      "name": "Field 1",
-      "value": "This is the first field",
-      "inline": true
-    },
-    {
-      "name": "Field 2",
-      "value": "This is the second field",
-      "inline": true
-    },
-    {
-      "name": "Field 3",
-      "value": "This field takes up the whole line",
-      "inline": false
-    }
-  ]
-}]
 ***
 
 ## Fields:
