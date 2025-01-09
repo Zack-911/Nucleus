@@ -29,3 +29,4 @@
   * [About](commands/utility/about.md)
   * [Help](commands/utility/help.md)
   * [Ping](commands/utility/ping.md)
+  * [Stats](commands/utility/stats.md)
