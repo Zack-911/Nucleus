@@ -56,7 +56,7 @@ k!owoify <owo/uwu/uvu> <text>
 
 ## Output:
 
-<div align="left"><figure><img src="../../.gitbook/assets/Owofify.png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/Owofiy.png" alt=""><figcaption></figcaption></figure></div>
 
 ***
 
